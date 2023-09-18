@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sajal2702
-- 👀 I’m interested in ...AIML and FUll Stack Web development
-- 🌱 I’m currently learning ...Full Stack Web Dev
-- 💞️ I’m looking to collaborate on ...any projects/internships on frontend coding
+- 👀 I’m interested in ...AIML, UI/UX and FUll Stack Web development
+- 🌱 I’m currently learning ...UI/UX designing
+- 💞️ I’m pursuing an internship in @ConceptSimplified as a UI/UX designer Intern
 - 📫 How to reach me ...sajalpatra2702@gmail.com
 
 <!---
